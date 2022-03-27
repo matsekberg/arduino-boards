@@ -68,10 +68,10 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "1.0.6_meg_1",
+          "version": "1.0.6-meg-1",
           "category": "ESP32",
-          "url": "https://github.com/matsekberg/arduino-esp32/releases/download/1.0.6_meg_1/esp32-1.0.6_meg_1.zip",
-          "archiveFileName": "esp32-1.0.6_meg_1.zip",
+          "url": "https://github.com/matsekberg/arduino-esp32/releases/download/1.0.6-meg-1/esp32-1.0.6-meg-1.zip",
+          "archiveFileName": "esp32-1.0.6-meg-1.zip",
           "checksum": "SHA-256:d26557109266425613afca03d963165b575471669c35baff9d396704cecca0e6",
           "size": "121348095",
           "help": {
