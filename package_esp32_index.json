@@ -72,8 +72,8 @@
           "category": "ESP32",
           "url": "https://github.com/matsekberg/arduino-esp32/releases/download/1.0.6-meg-1/esp32-1.0.6-meg-1.zip",
           "archiveFileName": "esp32-1.0.6-meg-1.zip",
-          "checksum": "SHA-256:cb7a89854426e4071fac1c016ad04abe318c6cb005a2568efdac5d53158a2e58",
-          "size": "58175130",
+          "checksum": "SHA-256:cc169f7248abc4cda74fc5ddc419e8bb12e9b02ea3bc6a05033a5727aff9d870",
+          "size": "56969138",
           "help": {
             "online": ""
           },
